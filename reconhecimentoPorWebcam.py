@@ -36,7 +36,7 @@ class FaceRecognition:
         print(self.knowsFaceNames)
     
     def run_recognition(self):
-        videoPath = 'WIN_20241024_12_51_41_Pro.mp4'
+        videoPath = 'WhatsApp Video 2025-09-24 at 18.45.18.mp4'
         videoCapture = cv2.VideoCapture(videoPath)
 
         if not videoCapture.isOpened():
