@@ -124,7 +124,7 @@ class FaceRecognition:
         self.encode_faces()
 
     def run_recognition(self):
-        droidcam_url = "http://192.168.1.16:4747/video" # <--- SUBSTITUA PELO SEU IP
+        droidcam_url = "http://10.65.132.11:4747/video" # <--- SUBSTITUA PELO SEU IP
         video_capture = cv2.VideoCapture(droidcam_url) 
         
         if not video_capture.isOpened():
