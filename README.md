@@ -2,7 +2,7 @@
 
 Conjunto de protótipos em Python para **identificar pessoas por reconhecimento facial** e **contar pessoas únicas** em vídeo, a partir de arquivos de vídeo, webcam ou de um celular usado como câmera IP (DroidCam).
 
-O repositório reúne experimentos incrementais desenvolvidos no contexto do laboratório **LIA — UEFS**. Cada script é autocontido e representa uma etapa da evolução do estudo: começa na comparação de duas fotos e chega a um pipeline em tempo real que aprende rostos novos durante a execução.
+O repositório reúne experimentos incrementais desenvolvidos para apresentar um projeto na Feira de Graduação. Cada script é autocontido e representa uma etapa da evolução do estudo: começa na comparação de duas fotos e chega a um pipeline em tempo real que aprende rostos novos durante a execução.
 
 ---
 
