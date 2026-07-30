@@ -193,7 +193,7 @@ pip install --upgrade pip
 pip install opencv-python numpy cmake dlib face_recognition ultralytics cvzone
 ```
 
-> **Windows:** se `pip install dlib` falhar na compilação, instale primeiro o *Visual Studio Build Tools* ou use uma wheel pré-compilada compatível com a sua versão do Python.
+> **Windows:** pelos testes que fiz não consegui instalar a `dlib` no Windows, só foi possível rodar via WSL com imagens ou videos. Sem acesso à webcam. 
 
 O peso `yolo11s.pt` (~19 MB) já está versionado no repositório — não é necessário baixá-lo.
 
